@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>
 </div>
 
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana0221&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana0221&layout=compact&theme=onedark)
