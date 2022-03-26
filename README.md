@@ -1,4 +1,4 @@
-<div style="align:center">
+<div align="center">
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8f9eff&text=Ga+Young+Yang&height=150&fontSize=60&&desc=Programmer&descAlignY=82&descAlign=67)
 
 <div>
