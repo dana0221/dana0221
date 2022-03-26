@@ -1,6 +1,4 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8f9eff&text=Ga+Young+Yang&height=150&fontSize=60&&desc=Programmer&descAlignY=82&descAlign=67)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana0221&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana0221&layout=compact&theme=onedark)
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -15,4 +13,8 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>
-</div
+</div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana0221&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana0221&layout=compact&theme=onedark)
