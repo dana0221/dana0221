@@ -1,8 +1,4 @@
-<div align="center">
-
-<p style="color:#8f9eff; fontSize:'60pt'; font-family:'Berlin Sans FB'">Ga Young Yang</p>
-<p style="color:#8f9eff; fontSize:'30pt'; font-family:'Berlin Sans FB'">Programmer</p>
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8f9eff&text=Ga+Young+Eang&height=150&fontSize=60&desc=Programmer&descAlignY=85&descAlign=68)
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
