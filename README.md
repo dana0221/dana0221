@@ -1,5 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8f9eff&text=Ga+Young+Eang&height=150&fontSize=60&desc=Programmer&descAlignY=85&descAlign=68)
-<div>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8f9eff&text=Ga+Young+Yang&height=150&fontSize=60&desc=Programmer&descAlignY=85&descAlign=68)
+<div ailgn="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
