@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1 type=transparent&fontColor=de6d73&text=Ji+Ham+Kim&height=150&fontSize=60&desc=developer&descAlignY=75&descAlign=60></h1>
+<p style="color:#8f9eff; fontSize:'60pt'; font-family:'Berlin Sans FB'">Ga Young Yang</p>
+<p style="color:#8f9eff; fontSize:'30pt'; font-family:'Berlin Sans FB'">Programmer</p>
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
