@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?height=200&text=Ga%Young%Yang&fontColor=eaeaea&fontAlign=50&fontAlignY=30&desc=Programmer&descAlign=69&descAlignY=61&type=waving&color=7f7f7f"/>
+  <img src="https://capsule-render.vercel.app/api?height=200&text=Ga%Young %Yang&fontColor=eaeaea&fontAlign=50&fontAlignY=30&desc=Programmer&descAlign=70&descAlignY=61&type=waving&color=7f7f7f"/>
   
   <h3>🖥️Tech Stacks🖥️</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
